@@ -1,0 +1,62 @@
+*{
+   margin: 0;
+   padding: 0; 
+  
+}
+
+body{
+    background-image: url("../practice javascript/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    width: 20rem;
+    height: 30rem;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    top: 50%;
+    
+    
+}
+
+.input{
+    width: 14.8rem;
+    height: 6rem;
+    font-size: 32px;
+    /* border: 2px solid black; */
+    text-align-last: right;
+    padding: 10px;
+    border: none;
+}
+
+.btn_list{
+    list-style: none;
+}
+
+.btn{
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0.5rem 0.3rem;
+    background-color: white;
+}
+
+.ans_btn{
+    width: 5rem !important;
+    background-color: aqua;
+    border-radius: 20px !important;
+}
+
+.sign{
+    background-color: aliceblue;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+}
