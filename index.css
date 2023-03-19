@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url("../practice javascript/bg.png");
+    background-image: url("./bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
